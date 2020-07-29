@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
         "projectPath": "D:\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-        "packagesPath": "C:\\Users\\Linx\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Leandro Gusmão\\.nuget\\packages\\",
         "outputPath": "D:\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Linx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leandro Gusmão\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,9 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://linx-pdv-cloud.pkgs.visualstudio.com/_packaging/BuildingBlock/nuget/v3/index.json": {},
-          "https://linx-pdv-cloud.pkgs.visualstudio.com/_packaging/FoodSdks/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
